@@ -14,7 +14,7 @@
 
 ### Description of Task 1
 
-The objective of *Task 1* was to design and develop a *File Handling Utility* using *Java* that allows users to perform basic operations such as writing, reading, and modifying data in a text file. This utility was built as part of the CODTECH IT SOLUTIONS Java Programming Internship, under the guidance of mentor **Neela Santosh*.
+The objective of *Task 1* was to design and develop a *File Handling Utility* using *Java* that allows users to perform basic operations such as writing, reading, and modifying data in a text file. This utility was built as part of the *CODTECH IT SOLUTIONS* Java Programming Internship, under the guidance of mentor *Neela Santosh*.
 
 To develop this application, I used *Visual Studio Code (VS Code)* as my primary code editor due to its user-friendly interface, IntelliSense support, and excellent Java development tools integration. I configured the Java Development Kit (JDK) in VS Code, along with required extensions for Java (such as the Language Support for Java(TM) by Red Hat and Debugger for Java).
 
