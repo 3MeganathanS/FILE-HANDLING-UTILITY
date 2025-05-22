@@ -20,11 +20,11 @@ To develop this application, I used *Visual Studio Code (VS Code)* as my primary
 
 ### Tools and Technologies Used:
 
-* *Programming Language*: Java (Core Java concepts)
-* *Editor*: Visual Studio Code (VS Code)
-* *Compiler/Runtime*: Java Development Kit (JDK 17)
-* *Operating System*: Windows 11
-* *Concepts Used*:
+* **Programming Language**: Java (Core Java concepts)
+* **Editor**: Visual Studio Code (VS Code)
+* **Compiler/Runtime**: Java Development Kit (JDK 17)
+* **Operating System**: Windows 11
+* **Concepts Used**:
 
   * File handling (FileWriter, FileReader, BufferedReader)
   * Exception handling (try-catch)
@@ -35,10 +35,10 @@ To develop this application, I used *Visual Studio Code (VS Code)* as my primary
 
 This File Handling Utility presents a menu-driven console interface where the user can:
 
-1. *Write to File* – Takes text input from the user and writes it to a file named data.txt.
-2. *Read from File* – Reads the contents of the file and displays it line by line.
-3. *Modify File Content* – Overwrites existing content with new input.
-4. *Exit* – Ends the application safely.
+1. **Write to File** – Takes text input from the user and writes it to a file named data.txt.
+2. **Read from File** – Reads the contents of the file and displays it line by line.
+3. **Modify File Content** – Overwrites existing content with new input.
+4. **Exit** – Ends the application safely.
 
 ### Purpose and Application:
 
@@ -65,3 +65,11 @@ One of the main challenges I faced was designing a user-friendly structure for r
 * Learned to use Visual Studio Code effectively with Java support.
 
 In conclusion, Task 1 gave me hands-on experience in building a utility that handles files in Java. It strengthened my basic programming skills, improved my ability to handle real-world user interactions, and made me more confident in structuring clean, maintainable code for Java applications.
+
+---
+
+## Output:
+![Image](https://github.com/user-attachments/assets/9d05b9d6-a681-4e9c-801a-8e2c434451db)
+![Image](https://github.com/user-attachments/assets/1fa7614e-7cce-407c-ba41-ac174eacc7e7)
+![Image](https://github.com/user-attachments/assets/080ca85e-01d8-4304-9575-ad81ac5c0a6e)
+![Image](https://github.com/user-attachments/assets/5e3c0001-b53a-44cd-9002-e0f4170a9818)
